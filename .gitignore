@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# VS code essential should not include
+.vscode/
+
 # MyNotes
 Notes.txt
 
